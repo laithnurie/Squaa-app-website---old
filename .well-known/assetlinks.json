@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.playground.squaa.beta",
+    "sha256_cert_fingerprints":
+    ["BC:A5:22:7E:C3:BA:26:63:91:62:E1:34:62:D5:FF:66:D0:CA:08:51:72:05:22:3E:06:B1:66:CE:9F:20:C3:0F"]
+  }
+}]
