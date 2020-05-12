@@ -2,6 +2,14 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.playground.squaa",
+    "sha256_cert_fingerprints":
+    ["F1:2B:17:D0:7A:FF:12:D0:1F:81:1F:42:1C:48:8E:9A:E9:29:1A:2E:0F:EF:16:4F:59:2D:DC:68:AF:31:01:BE"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.playground.squaa.beta",
     "sha256_cert_fingerprints":
     ["BC:A5:22:7E:C3:BA:26:63:91:62:E1:34:62:D5:FF:66:D0:CA:08:51:72:05:22:3E:06:B1:66:CE:9F:20:C3:0F"]
